@@ -1,0 +1,63 @@
+#main{
+        background-color: 0;
+        padding: 5px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+        
+
+
+
+}
+
+button{
+        width: 100%;
+        height: 50px;
+        font-size: 35px;
+
+
+}
+
+
+#clicking{
+background-color: 0;
+padding: 5px;
+margin-bottom: 20px;
+margin-top: 100px;
+
+
+}
+
+#div-counter{
+
+background-color: 0;
+padding: 5px;
+font-size: 35px;
+
+
+
+
+}
+
+body{
+        font-family: Arial;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+
+
+}
+
+#enlace{
+    visibility: hidden;
+    margin-top: 100px;
+    font-size: 40px;
+
+
+
+}
